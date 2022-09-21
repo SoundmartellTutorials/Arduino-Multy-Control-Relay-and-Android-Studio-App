@@ -2,6 +2,8 @@
 This project consists in the development of an app with Android Studio (Kotlin) to communicate with Arduino Nano 
 to control a module of 16 relays and a temperature sensor.
 
+It can be used to automate home devices and other projects.
+
 Components:
 
 ArduinoNano.
@@ -13,4 +15,6 @@ DS18B20 Temperature Sensor Module.
 16 channel relay shield (Hacked to operate- with 5 Volts).
 
 Arduino NANO I/O Extension Shield.
+
+12 Volts power adapter.
 
